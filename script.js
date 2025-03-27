@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function printFunction() {
+function printFunctionName() {
 	alert(arguments.callee.name);
 }
 
